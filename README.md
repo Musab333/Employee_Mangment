@@ -1,63 +1,32 @@
-# Name application
-    Auth Application
+Employee_Mangment ✅
 
-# Intro in application
-    Auth app is simple UI Design and  data in for can in work two platform Android & ios.
+[-] Welcome Screen
 
-# Technology app
-    - Flutter Framework
-    - Dart Language 
+![Welcome Screen](https://github.com/user-attachments/assets/fe42ca0d-506a-4c2b-87a2-d37a60a01c28)
 
-# Architecture Pattern
-    Clean Architecture 
+[-] Home Screen
 
-# State Management
-    BLoc/Cubit Statemanagement
+![Home Screen](https://github.com/user-attachments/assets/ad55b248-f305-4f03-a8ef-f0bf6d7e6d4b)
 
-# About 
+[-] Add Employe Screen
 
+![Add Employe Screen](https://github.com/user-attachments/assets/19ffaa77-4ace-4f8c-8fa0-051ab71fc634)
 
+[-] Add data updata employe screen
 
+![Add data updata employe screen](https://github.com/user-attachments/assets/58c82c37-44e4-46c3-970a-556f7110ec99)
 
-# Screens
-- [1] Sign In Screen
-- [2] Sign Up Screen
-- [3] Profile Screen
+[-] Update data Employe Screen
 
+![Update data Employe Screen](https://github.com/user-attachments/assets/175ff884-f762-47f2-9ecd-978a83e620de)
 
-# Create Screen Done
-- [1] Sign In Screen
-- [2] Sign Up Screen
-- [3] Profile Screen
+[-] Delete data employe screen
+
+![Delete data employe screen](https://github.com/user-attachments/assets/5185e834-62fc-432e-9d17-72eff4b85caf)
 
 
-# Screenshots
 
 
-# packages & Dependencies
-  cupertino_icons: ^1.0.2
-  flutter_bloc: ^8.1.6
-  image_picker: ^1.0.4
-  dio: ^5.5.0+1
-  jwt_decoder: ^2.0.1
-  shared_preferences: ^2.2.2
-  dartz: ^0.10.1
-  flutter_svg: ^2.0.5
 
-# Directory Structure & Design System
 
-lib
-├───core
-│   ├───api
-│   ├───cache
-│   ├───errors
-│   └───functions
-├───data
-│   ├───models
-│   └───repositories
-├───logic
-│   ├───bloc
-│   └───cubit
-└───view
-    ├───screens
-    └───widgets
+
